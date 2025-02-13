@@ -1,5 +1,3 @@
-
-12343
 <?php
 require_once 'models/conexion.php';
 class Musu{
